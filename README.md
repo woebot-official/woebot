@@ -1,6 +1,6 @@
 # woebot
 
-woebot is a multipurpose discord bot with advanced Ticket, Utility, Automod, poll, aution etc.
+woebot is a multipurpose discord bot with advanced Ticket, Utility, Automod, poll, aution, Audit logging, Verification etc.
 
 The bot Support Discord Slash Command.
 
