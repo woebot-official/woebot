@@ -25,7 +25,3 @@ The bot Support Discord Slash Command.
 - Vote Woebot: [DiscordBotList](https://discordbotlist.com/bots/woebot-1480)
 
 - Privacy Policy: [Here](https://rjryt.tech/woebot/privacy)
-
-
-<dbl-widget bot-id="bot-BOTID"></dbl-widget>
-<script src="https://discordbotlist.com/widget/index.js" async></script>
