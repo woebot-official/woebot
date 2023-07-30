@@ -12,13 +12,13 @@ The bot Support Discord Slash Command.
 
 - Default Command Prefix: `!!`
 
-- Support Server: [Stacks](https://discord.gg/NzQMqkEjVk)
+- Support Server: [Stacks](https://discord.gg/pYFHkHPtBU)
 
-- Developers: [RJRYT](https://rjryt.tech), [BO$$](https://cruzgaming.ml)
+- Developers: [RJRYT](https://rjryt.me), [BO$$](https://cruzgaming.ml)
 
 - Sponsor: [Codroid Development](https://codroid.host)
 
-- Owner: [RJRYT](https://rjryt.tech)
+- Owner: [RJRYT](https://rjryt.me)
 
 # Useful Links
 
